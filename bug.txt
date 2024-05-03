@@ -1,5 +1,0 @@
-bug1
-bug
-bug4
-bug5
-bug6
