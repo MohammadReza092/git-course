@@ -5,3 +5,4 @@ green
 cyan
 black
 white
+pink
